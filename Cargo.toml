@@ -1,5 +1,5 @@
 [package]
-name = "sudoku_-olver"  
+name = "sudoku_-solver"  
 version = "0.1.0"
 authors = ["Nithin Konda nitinkonda142@gmail.com"]
 edition = "2021"
