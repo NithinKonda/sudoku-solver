@@ -1,6 +1,12 @@
 [package]
-name = "sudoku_solver"
+name = "sudoku_-olver"  
 version = "0.1.0"
+authors = ["Nithin Konda nitinkonda142@gmail.com"]
 edition = "2021"
+
+license = "MIT"
+description = "A Rust crate for solving Sudoku puzzles. It takes a Sudoku puzzle input and provides the solved grid."
+repository = "https://github.com/NithinKonda/sudoku-solver"
+readme = "README.md"
 
 [dependencies]
